@@ -4,24 +4,24 @@ Qiita::NekosogiStocker stocks specific user's all articles.
 
 ## :thought_balloon: Image
 ### Before
-You
-:man::grey_question::grey_question::page_with_curl::older_man:(:star2: author)
-:grey_question::grey_question::grey_question::page_with_curl:
-:grey_question::grey_question::grey_question::page_with_curl:
-:grey_question::thumbsup::paperclip::page_with_curl:
-:grey_question::thumbsup::paperclip::page_with_curl:
-:grey_question::grey_question::grey_question::page_with_curl:
+You  
+:man::grey_question::grey_question::page_with_curl::older_man:(:star2: author)  
+:grey_question::grey_question::grey_question::page_with_curl:  
+:grey_question::grey_question::grey_question::page_with_curl:  
+:grey_question::thumbsup::paperclip::page_with_curl:  
+:grey_question::thumbsup::paperclip::page_with_curl:  
+:grey_question::grey_question::grey_question::page_with_curl:  
 
 ### After
 
-You
-:notes:
-:man::thumbsup::paperclip::page_with_curl::older_man:(:star2: author)
-:grey_question::thumbsup::paperclip::page_with_curl:
-:grey_question::thumbsup::paperclip::page_with_curl:
-:grey_question::thumbsup::paperclip::page_with_curl:
-:grey_question::thumbsup::paperclip::page_with_curl:
-:grey_question::thumbsup::paperclip::page_with_curl:
+You  
+:notes:  
+:man::thumbsup::paperclip::page_with_curl::older_man:(:star2: author)  
+:grey_question::thumbsup::paperclip::page_with_curl:  
+:grey_question::thumbsup::paperclip::page_with_curl:  
+:grey_question::thumbsup::paperclip::page_with_curl:  
+:grey_question::thumbsup::paperclip::page_with_curl:  
+:grey_question::thumbsup::paperclip::page_with_curl:  
 
 ## :cloud::arrow_down: Installation
 
