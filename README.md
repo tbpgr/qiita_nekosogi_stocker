@@ -2,7 +2,7 @@
 
 Qiita::NekosogiStocker stocks specific user's all articles.
 
-## Image
+## :thought_balloon: Image
 ### Before
 You
 :man::grey_question::grey_question::page_with_curl::older_man:(:star2: author)
@@ -23,7 +23,7 @@ You
 :grey_question::thumbsup::paperclip::page_with_curl:
 :grey_question::thumbsup::paperclip::page_with_curl:
 
-## Installation
+## :cloud::arrow_down: Installation
 
 Add this line to your application's Gemfile:
 
@@ -39,19 +39,32 @@ Or install it yourself as:
 
     $ gem install qiita_nekosogi_stocker
 
-## Usage
+## :computer: Commands
+command name `nekosoqiita`
+
+|sub command|args|memo|
+|:--|:--|:--|
+|help|--|show help|
+|help|sub command name|show specific sub-command help|
+|version|--|show version|
+|stock|qiita_user_id|Stock all articles that created by user(qiita_user_id). Output format is ltsv.|
+
+## :scroll: Usage
 
 ~~~bash
-$ nekosoqiita stock jnchito
-title:title1....	url:url1...
-title:title2....	url:url2...
+# 伊藤直也 さんの記事を根こそぎストックしてみます
+$ nekosoqiita stock naoya@github
+title: Yak shaving in Yosemite	url: http://qiita.com/naoya@github/items/8793fe9227f2b144b1ff
+title: Go の変数初期化に伴う条件分岐をもっと良い感じに書きたいと思ったが諦めるしかないようです	url: http://qiita.com/naoya@github/items/fbfb853a910a8b3ae0fd
+title: Chef で aws の t1.micro に swap を作るレシピ	url: http://qiita.com/naoya@github/items/2059e3755962e907315e
+title: iTerm2 で emacs で C-tab で other-window	url: http://qiita.com/naoya@github/items/bfb250aa76107a036127
 ~~~
 
 ## :deciduous_tree: Env
 
 |key|value|
 |:--|:--|
-|access_token|Qiita の認証情報|
+|access_token|Qiita access token|
 
 ### .env
 ~~~
@@ -64,9 +77,9 @@ access_token=set_your_qiita_token
 |:--|:--|
 |qiita|qiita gem|
 
-## Contributing
+## :two_women_holding_hands: Contributing :two_men_holding_hands:
 
-1. Fork it ( https://github.com/[my-github-username]/qiita_nekosogi_stocker/fork )
+1. Fork it ( https://github.com/tbpgr/qiita_nekosogi_stocker/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
