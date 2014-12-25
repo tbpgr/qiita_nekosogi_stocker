@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'qiita_nekosogi_stocker/cli'
+Qiita::NekosogiStocker::CLI.start
