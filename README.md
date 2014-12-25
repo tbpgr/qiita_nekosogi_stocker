@@ -2,6 +2,8 @@
 
 Qiita::NekosogiStocker stocks specific user's all articles.
 
+[![Build Status](https://travis-ci.org/tbpgr/qiita_nekosogi_stocker.png?branch=master)](https://travis-ci.org/tbpgr/qiita_nekosogi_stocker)
+
 ## :thought_balloon: Image
 ### Before
 You  
